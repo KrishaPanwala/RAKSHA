@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Allow cleartext traffic for your domain or all domains -->
+        <domain includeSubdomains="true">localhost.com</domain>
+        <!-- Alternatively, use this to allow cleartext traffic globally -->
+        <!-- <domain includeSubdomains="true">localhost</domain> -->
+    </domain-config>
+</network-security-config>

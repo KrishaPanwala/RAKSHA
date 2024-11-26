@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_manage_contacts"
+        android:title="Manage Contacts" />
+    <item
+        android:id="@+id/nav_laws"
+        android:title="Laws" />
+    <item
+        android:id="@+id/nav_self_defense"
+        android:title="Self Defense" />
+
+</menu>

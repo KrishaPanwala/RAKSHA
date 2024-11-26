@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="buttonColor">#FF4081</color> <!-- Define buttonColor -->
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="button_background_send_location">#007AFF</color> <!-- A blue color with good contrast -->
+    <color name="button_background_call_emergency">#D32F2F</color> <!-- A red color with good contrast -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+
+</resources>
